@@ -1,5 +1,5 @@
 searx
-=====
+======
 
 A privacy-respecting, hackable `metasearch
 engine <https://en.wikipedia.org/wiki/Metasearch_engine>`__.
